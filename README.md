@@ -19,7 +19,7 @@ I have two main **goals**:
 
 ### 🖥️ **CI/CD**
 
-### 🖥️ **RabbiMQ**
+### 🖥️ **RabbitMQ**
 
 ---
 
@@ -32,4 +32,4 @@ I have two main **goals**:
 <!--- Urls ---->
 [linkedin-url]: https://www.linkedin.com/in/matheus-oliveira-2409/
 [instagram-url]: https://www.instagram.com/maath_eeuus.me/
-[homuai-url]: https://homuai.com
+
