@@ -4,7 +4,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 ## 👦 **About me**
-I'm a 22 year old Brazilian computer engineering student. I've been working with technology since 2019 and during that period of my professional life I worked on some fullstack projects.
+I'm a 22 year old Brazilian computer engineering student. I've been working with technology since 2020 and during that period of my professional life I worked on some fullstack projects.
 
 I have two main **goals**:
 
