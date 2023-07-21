@@ -19,6 +19,8 @@ I have two main **goals**:
 
 ### 🖥️ **CI/CD**
 
+### 🖥️ **RabbiMQ**
+
 ---
 
 <!--- Shields -->
