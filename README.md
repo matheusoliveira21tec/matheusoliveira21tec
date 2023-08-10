@@ -21,6 +21,8 @@ I have two main **goals**:
 
 ### 🖥️ **RabbitMQ**
 
+### 🖥️ **Angular**
+
 ---
 
 <!--- Shields -->
