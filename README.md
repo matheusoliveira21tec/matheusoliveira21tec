@@ -17,6 +17,8 @@ I have two main **goals**:
 
 ### 🖥️ **Microservices**
 
+### 🖥️ **Azure Cloud**
+
 ### 🖥️ **CI/CD**
 
 ### 🖥️ **RabbitMQ**
